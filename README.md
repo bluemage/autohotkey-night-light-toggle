@@ -8,4 +8,4 @@ coordinates for
 
 MouseMove, x, y, speed 
 
-might need tweaking based on display size use autohotkey window spy
+will probably need tweaking based on display size. To do so please use autohotkey window spy
