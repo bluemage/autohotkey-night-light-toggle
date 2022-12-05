@@ -7,4 +7,6 @@
 	Send #a
 	return
   
-  ;coordinates might need tweaking based on display size use autohotkey window spy
+  	;coordinates x and y will probably need to be set based on display size 
+	;use autohotkey window spy
+	;MouseMove, x, y, speed
