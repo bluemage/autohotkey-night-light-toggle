@@ -1,7 +1,3 @@
-# autohotkeyscripts
-AutoHotKey scripts
-
-
 Here is an AutoHotKey script to enable and disable windows 11 night light as a keyboard shortcut.
 
 coordinates for 
