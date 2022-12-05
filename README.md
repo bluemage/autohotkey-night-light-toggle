@@ -1,6 +1,6 @@
 # autohotkeyscripts
-auto hot key scripts
+AutoHotKey scripts
 
 
-here is an autohotkey script to enable and disable windows 11 night light
+here is an AutoHotKey script to enable and disable windows 11 night light
 ;coordinates might need tweaking based on display size use autohotkey window spy
